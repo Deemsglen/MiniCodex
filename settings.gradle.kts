@@ -1,0 +1,11 @@
+rootProject.name = " MiniCodex\
+include(\:app\)
+include(\:core:ai\)
+include(\:core:security\)
+include(\:core:ui\)
+include(\:core:util\)
+include(\:feature:agent\)
+include(\:feature:browser\)
+include(\:feature:build\)
+include(\:feature:editor\)
+include(\:feature:terminal\)

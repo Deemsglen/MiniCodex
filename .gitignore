@@ -1,0 +1,16 @@
+build/
+.gradle/
+/app/build/
+/core/ai/build/
+/core/security/build/
+/core/ui/build/
+/core/util/build/
+/feature/agent/build/
+/feature/browser/build/
+/feature/build/build/
+/feature/editor/build/
+/feature/terminal/build/
+*.iml
+.idea/
+local.properties
+.DS_Store
